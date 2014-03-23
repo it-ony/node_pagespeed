@@ -1,0 +1,22 @@
+{
+  "name": "node_pagespeed",
+  "version": "0.1.0",
+  "description": "A page speed proxy for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/it-ony/node_pagespeed.git"
+  },
+  "keywords": [
+    "pagespeed"
+  ],
+  "author": "Tony Findeisen <github@it-ony.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/it-ony/node_pagespeed/issues"
+  },
+  "homepage": "https://github.com/it-ony/node_pagespeed"
+}
